@@ -91,6 +91,14 @@ button{
 .banner-right img{
     width: 90%;
 }
+.company-logo{
+    display: flex;
+    justify-content:space-evenly;
+    border-top:.70px solid rgb(236, 227, 227);
+    border-bottom:.70px solid rgb(236, 227, 227);
+    width: 80%;
+    margin: 120px 100px;  
+}
 /* Popular collection Style */
 .popular-collection{
     display: grid;
